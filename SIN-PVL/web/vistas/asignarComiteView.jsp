@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>JSP Page</title>
 </head>
-<body>
+
 <body class="hold-transition skin-blue sidebar-mini>
       <div class="content-wrapper>    
 
